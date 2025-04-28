@@ -5,14 +5,20 @@ This project is a comprehensive tool that scrapes news articles from provided UR
 
 # Key Features
 News Scraping: Extracts article content from various news websites
+
 Language Detection & Translation: Identifies non-English articles and translates them
+
 Text Summarization: Condenses articles to their key points using BART model
+
 Sentiment Analysis: Evaluates whether the summary is positive, negative, or neutral
+
 User-Friendly Interface: Simple Streamlit web app with clear visual feedback
 
 # Technical Stack
 Frontend: Streamlit
+
 Backend: Python
+
 Libraries:
 BeautifulSoup (web scraping)
 Transformers (NLP models)
