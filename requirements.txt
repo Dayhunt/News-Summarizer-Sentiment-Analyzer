@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+rake-nltk
+transformers
+torch
+deep-translator
+langdetect

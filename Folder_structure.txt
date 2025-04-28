@@ -1,0 +1,9 @@
+News_summarizer_sentiment_analyzer/
+│
+├── app.py                 # Main Streamlit App
+├── news_scraper.py        # News Scraping Logic
+├── keyword_extractor.py   # Keyword Extraction Logic
+├── summarizer.py          # Text Summarization Logic
+├── translation.py         # Language Detection and Translation
+├── sentiment.py           # Sentiment Analysis
+├── requirements.txt       # Required Libraries (installed via pip)
