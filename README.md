@@ -20,8 +20,22 @@ Frontend: Streamlit
 Backend: Python
 
 Libraries:
-BeautifulSoup (web scraping)
-Transformers (NLP models)
-Langdetect (language detection)
-Deep-translator (translation)
+BeautifulSoup (web scraping),
+Transformers (NLP models),
+Langdetect (language detection),
+Deep-translator (translation),
 Torch (model backend)
+
+# Installation
+Clone the repository
+
+Install dependencies: pip install -r requirements.txt
+
+Run the app: streamlit run app.py
+
+# Usage
+Enter a valid news article URL
+
+Click "Process URL"
+
+View the summary and sentiment analysis results
